@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-automation",
+  "version": "1.0.0",
+  "description": "A collection of Puppeteer automation scripts for web scraping and testing",
+  "main": "src/automation.js",
+  "scripts": {
+    "start": "node src/automation.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "automation",
+    "web-scraping",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
